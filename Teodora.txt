@@ -1,3 +1,8 @@
 Teodora :)
 
+<<<<<<< HEAD
 Test
+=======
+
+test
+>>>>>>> 69dc1a92c3ddecfd82d5c06252a035f9e7399e7b
